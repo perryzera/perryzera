@@ -1,4 +1,4 @@
-### Boa boa, eu sou o João Vitor! ✌🏼
+### Hi, I'm João Vitor! ✌🏼
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/p_erry)
 [![Blog](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/perryzera_)
@@ -19,9 +19,9 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 <br/>
-👨🏽‍🎓Estudante de Computer Science (5/8)<br>
-🧑🏾‍💻 Trabalho como Analista de T.I.<br>
-📱 Técnico de Informática <br>
-🎙️ Artista, Compositor e Produtor <br>
-👨🏽‍💼 Empresário <br>
+👨🏽‍🎓 Computer Science Student (5/8)<br>
+🧑🏾‍💻 IT Analyst<br>
+📱 Computer Technician<br>
+🎙️ Artist, Composer and Producer <br>
+👨🏽‍💼 Businessperson <br>
 🌍 Curitiba, PR <br>
